@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commonsimaging"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/gdata"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaxmail"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsch"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mjson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/netty"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pentaho"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pgsql"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/rhino"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/bonecp"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/guava"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_40"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/cjars"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pdi"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/fuzzy"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

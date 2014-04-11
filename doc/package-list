@@ -1,0 +1,8 @@
+com.google.gdocs
+com.hygenics.crawler
+com.hygenics.crawlerclient
+com.hygenics.exceptions
+com.hygenics.html
+com.hygenics.imaging
+com.hygenics.jdbc
+com.hygenics.sftp
